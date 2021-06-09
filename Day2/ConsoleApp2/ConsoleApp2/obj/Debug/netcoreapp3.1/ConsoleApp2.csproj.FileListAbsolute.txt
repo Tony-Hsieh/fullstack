@@ -1,0 +1,12 @@
+/Users/hsinhanh19/Desktop/fullstack/Day2/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.csprojAssemblyReference.cache
+/Users/hsinhanh19/Desktop/fullstack/Day2/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.AssemblyInfoInputs.cache
+/Users/hsinhanh19/Desktop/fullstack/Day2/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.AssemblyInfo.cs
+/Users/hsinhanh19/Desktop/fullstack/Day2/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.csproj.CoreCompileInputs.cache
+/Users/hsinhanh19/Desktop/fullstack/Day2/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.deps.json
+/Users/hsinhanh19/Desktop/fullstack/Day2/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.runtimeconfig.json
+/Users/hsinhanh19/Desktop/fullstack/Day2/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.runtimeconfig.dev.json
+/Users/hsinhanh19/Desktop/fullstack/Day2/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.dll
+/Users/hsinhanh19/Desktop/fullstack/Day2/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.pdb
+/Users/hsinhanh19/Desktop/fullstack/Day2/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.dll
+/Users/hsinhanh19/Desktop/fullstack/Day2/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.pdb
+/Users/hsinhanh19/Desktop/fullstack/Day2/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.genruntimeconfig.cache
