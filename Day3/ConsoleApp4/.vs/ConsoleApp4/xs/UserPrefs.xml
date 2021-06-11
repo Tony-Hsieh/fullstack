@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{80BFCBBC-CDC9-4633-8BB7-525A4AEE3F34}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleApp4 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApp4/BaseCustomer.cs">
+    <Files>
+      <File FileName="ConsoleApp4/Program.cs" Line="10" Column="83" />
+      <File FileName="ConsoleApp4/BaseCustomer.cs" Line="11" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleApp4" expanded="True">
+            <Node name="ConsoleApp4" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

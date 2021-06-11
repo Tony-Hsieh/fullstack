@@ -63,6 +63,7 @@ namespace ConsoleApp2
             Console.WriteLine($"sum = {a + b}");
         }
 
+        [Obsolete("Use AddNUmbers(params int[] args)", true)]
         public void AddThreeIntegers(int a, int b, int c)
         {
             Console.WriteLine($"sum = {a + b + c}");
