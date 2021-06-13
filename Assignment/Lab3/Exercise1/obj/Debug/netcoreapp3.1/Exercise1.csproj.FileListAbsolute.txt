@@ -1,0 +1,12 @@
+/Users/hsinhanh19/Desktop/fullstack/Assignment/Lab3/Exercise1/obj/Debug/netcoreapp3.1/Exercise1.csprojAssemblyReference.cache
+/Users/hsinhanh19/Desktop/fullstack/Assignment/Lab3/Exercise1/obj/Debug/netcoreapp3.1/Exercise1.AssemblyInfoInputs.cache
+/Users/hsinhanh19/Desktop/fullstack/Assignment/Lab3/Exercise1/obj/Debug/netcoreapp3.1/Exercise1.AssemblyInfo.cs
+/Users/hsinhanh19/Desktop/fullstack/Assignment/Lab3/Exercise1/obj/Debug/netcoreapp3.1/Exercise1.csproj.CoreCompileInputs.cache
+/Users/hsinhanh19/Desktop/fullstack/Assignment/Lab3/Exercise1/bin/Debug/netcoreapp3.1/Exercise1.deps.json
+/Users/hsinhanh19/Desktop/fullstack/Assignment/Lab3/Exercise1/bin/Debug/netcoreapp3.1/Exercise1.runtimeconfig.json
+/Users/hsinhanh19/Desktop/fullstack/Assignment/Lab3/Exercise1/bin/Debug/netcoreapp3.1/Exercise1.runtimeconfig.dev.json
+/Users/hsinhanh19/Desktop/fullstack/Assignment/Lab3/Exercise1/bin/Debug/netcoreapp3.1/Exercise1.dll
+/Users/hsinhanh19/Desktop/fullstack/Assignment/Lab3/Exercise1/bin/Debug/netcoreapp3.1/Exercise1.pdb
+/Users/hsinhanh19/Desktop/fullstack/Assignment/Lab3/Exercise1/obj/Debug/netcoreapp3.1/Exercise1.dll
+/Users/hsinhanh19/Desktop/fullstack/Assignment/Lab3/Exercise1/obj/Debug/netcoreapp3.1/Exercise1.pdb
+/Users/hsinhanh19/Desktop/fullstack/Assignment/Lab3/Exercise1/obj/Debug/netcoreapp3.1/Exercise1.genruntimeconfig.cache
