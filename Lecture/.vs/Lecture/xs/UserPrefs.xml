@@ -1,22 +1,28 @@
 ﻿<Properties StartupConfiguration="{937DF1E1-8F2A-4F02-B591-1527235D10C9}|Default">
   <MonoDevelop.Ide.ItemProperties.ConsoleApp4 FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApp4/BaseCustomer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApp7/IArithematic.cs">
     <Files>
-      <File FileName="ConsoleApp4/Program.cs" Line="17" Column="1" />
-      <File FileName="ConsoleApp4/BaseCustomer.cs" Line="34" Column="21" />
+      <File FileName="ConsoleApp7/Program.cs" Line="1" Column="1" />
+      <File FileName="ConsoleApp7/IArithematic.cs" Line="9" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Lecture" expanded="True">
-            <Node name="ConsoleApp5" selected="True" />
+            <Node name="ConsoleApp7" expanded="True">
+              <Node name="IArithematic.cs" selected="True" />
+            </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.ConsoleApp6 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ConsoleApp2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleApp7 FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.ConsoleApp3 FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.ConsoleApp1 FirstBuild="True" />
