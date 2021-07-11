@@ -1,0 +1,12 @@
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\DapperTraining\Antra.Dapper.Data.Repository\bin\Debug\netcoreapp3.1\Antra.DapperTraining.Data.Models.dll
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\DapperTraining\Antra.Dapper.Data.Repository\obj\Debug\netcoreapp3.1\Antra.Dapper.Data.Repository.csprojAssemblyReference.cache
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\DapperTraining\Antra.Dapper.Data.Repository\obj\Debug\netcoreapp3.1\Antra.Dapper.Data.Repository.AssemblyInfoInputs.cache
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\DapperTraining\Antra.Dapper.Data.Repository\obj\Debug\netcoreapp3.1\Antra.Dapper.Data.Repository.AssemblyInfo.cs
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\DapperTraining\Antra.Dapper.Data.Repository\bin\Debug\netcoreapp3.1\Antra.Dapper.Data.Repository.deps.json
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\DapperTraining\Antra.Dapper.Data.Repository\bin\Debug\netcoreapp3.1\Antra.Dapper.Data.Repository.dll
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\DapperTraining\Antra.Dapper.Data.Repository\bin\Debug\netcoreapp3.1\Antra.Dapper.Data.Repository.pdb
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\DapperTraining\Antra.Dapper.Data.Repository\bin\Debug\netcoreapp3.1\Antra.DapperTraining.Data.Models.pdb
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\DapperTraining\Antra.Dapper.Data.Repository\obj\Debug\netcoreapp3.1\Antra.Dapper.Data.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\DapperTraining\Antra.Dapper.Data.Repository\obj\Debug\netcoreapp3.1\Antra.Dapper.Data.Repository.csproj.CopyComplete
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\DapperTraining\Antra.Dapper.Data.Repository\obj\Debug\netcoreapp3.1\Antra.Dapper.Data.Repository.dll
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\DapperTraining\Antra.Dapper.Data.Repository\obj\Debug\netcoreapp3.1\Antra.Dapper.Data.Repository.pdb

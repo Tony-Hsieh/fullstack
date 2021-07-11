@@ -1,0 +1,73 @@
+﻿* {
+    font-family: Calibri;
+}
+
+.panel {
+    margin-bottom: 15px;
+    width:40%;
+}
+
+.panel-primary {
+    border: 1px solid #0094ff;
+}
+
+    .panel-primary .panel-header {
+        background-color: #0094ff;
+        color: white;
+        padding: 5px 10px;
+    }
+
+    .panel-primary .panel-body {
+        padding: 10px;
+    }
+
+    .panel-primary .panel-footer {
+        background-color: #e4dede;
+        padding: 5px 10px;
+    }
+
+
+.form-control {
+    width:90%;
+    display:block;
+    padding:5px 10px;
+}
+.form-group {
+    margin-bottom:5px;
+}
+
+.btn {
+    padding: 10px;
+    min-width: 150px;
+    border: none;
+    color: white;
+    font-size:18px;
+}
+.btn-primary {
+    background-color:#0094ff;
+    
+}
+
+.btn-warning {
+    background-color:coral;
+}
+.btn-info {
+    background-color: yellowgreen;
+}
+
+.table {
+    border-collapse: collapse;
+}
+
+.table td {
+    padding:2px 5px;
+   
+}
+
+.table-stripped tbody tr:nth-child(2n+1) {
+    background-color:#e4dede;
+}
+
+.table thead {
+    background-color:#0094ff;
+}

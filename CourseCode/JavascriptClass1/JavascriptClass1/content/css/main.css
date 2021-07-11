@@ -1,0 +1,48 @@
+﻿* {
+    font-family: Calibri;
+}
+
+.panel {
+    margin-bottom: 15px;
+    width:40%;
+}
+
+.panel-primary {
+    border: 1px solid #0094ff;
+}
+
+    .panel-primary .panel-header {
+        background-color: #0094ff;
+        color: white;
+        padding: 5px 10px;
+    }
+
+    .panel-primary .panel-body {
+        padding: 10px;
+    }
+
+    .panel-primary .panel-footer {
+        background-color: #e4dede;
+        padding: 5px 10px;
+    }
+
+
+.form-control {
+    width:90%;
+    display:block;
+    padding:5px 10px;
+}
+.form-group {
+    margin-bottom:5px;
+}
+
+.btn {
+    padding: 10px;
+    min-width:150px;
+    border:none;
+}
+.btn-primary {
+    background-color:#0094ff;
+    color:white;
+}
+

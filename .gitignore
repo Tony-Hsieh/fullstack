@@ -20,6 +20,9 @@
 *.rar
 *.bak
 
+# db Files
+*.sql
+
 # Video Files #
 *.webm
 *.mov

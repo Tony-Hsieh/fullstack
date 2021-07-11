@@ -1,0 +1,9 @@
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\CompanyApp\Antra.Training.Company.Data.Models\bin\Debug\netcoreapp3.1\Antra.Training.Company.Data.Models.deps.json
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\CompanyApp\Antra.Training.Company.Data.Models\bin\Debug\netcoreapp3.1\Antra.Training.Company.Data.Models.dll
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\CompanyApp\Antra.Training.Company.Data.Models\bin\Debug\netcoreapp3.1\Antra.Training.Company.Data.Models.pdb
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\CompanyApp\Antra.Training.Company.Data.Models\obj\Debug\netcoreapp3.1\Antra.Training.Company.Data.Models.csprojAssemblyReference.cache
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\CompanyApp\Antra.Training.Company.Data.Models\obj\Debug\netcoreapp3.1\Antra.Training.Company.Data.Models.AssemblyInfoInputs.cache
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\CompanyApp\Antra.Training.Company.Data.Models\obj\Debug\netcoreapp3.1\Antra.Training.Company.Data.Models.AssemblyInfo.cs
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\CompanyApp\Antra.Training.Company.Data.Models\obj\Debug\netcoreapp3.1\Antra.Training.Company.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\CompanyApp\Antra.Training.Company.Data.Models\obj\Debug\netcoreapp3.1\Antra.Training.Company.Data.Models.dll
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\CompanyApp\Antra.Training.Company.Data.Models\obj\Debug\netcoreapp3.1\Antra.Training.Company.Data.Models.pdb

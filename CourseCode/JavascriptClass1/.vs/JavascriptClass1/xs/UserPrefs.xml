@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9DDDBB18-8179-4F9C-B339-E5C8ECABEB03}|">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JavascriptClass1" expanded="True">
+            <Node name="JavascriptClass1" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="content" expanded="True">
+                <Node name="javascript" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="eventhandling.html" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.JavascriptClass1 PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Antra.DapperTraining.Data.Models/1.0.0": {
+        "runtime": {
+          "Antra.DapperTraining.Data.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Antra.DapperTraining.Data.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

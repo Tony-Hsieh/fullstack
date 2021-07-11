@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{C2B4C26B-B87C-43D3-BBD3-B12B2DF3C2B4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Antra.Training.Company.ConsoleApp/Program.cs">
+    <Files>
+      <File FileName="Antra.Training.Company.ConsoleApp/Program.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CompanyApp" expanded="True" selected="True">
+            <Node name="Antra.Training.Company.ConsoleApp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Antra.Training.Company.ConsoleApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

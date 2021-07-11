@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="content/css/main.css" rel="stylesheet" />
+</head>
+<body>
+    <select class="form-control" id="ddlCountry" onchange="showCountry()">
+        <option value="0">Select</option>
+        <option value="1">USA</option>
+        <option value="2">CAnada</option>
+        <option value="3">China</option>
+    </select>
+    <select class="form-control" id="ddlShowHide" onchange="showHidePanel()">
+        <option value="0">Select</option>
+        <option value="1">Show</option>
+        <option value="2">Hide</option>
+    </select>
+    <div class="panel panel-primary" id="arth">
+        <div class="panel-header">Arithematic Operations</div>
+        <div class="panel-body">
+            <div class="form-group">
+                <input type="text" class="form-control" placeholder="enter a number" id="txtFirstNumber" />
+            </div>
+            <div class="form-group">
+                <input type="text" class="form-control" placeholder="Enter a number" id="txtSecondNumber" />
+            </div>
+            <div class="form-group">
+                <input type="text" placeholder="Result" id="txtResult" class="form-control" disabled />
+            </div>
+        </div>
+        <div class="panel-footer">
+            <input type="button" class="btn btn-primary" value="Addition" onclick="addition()" />
+            <input type="button" class="btn btn-warning" value="Subtract" id="btnSubtract"/>
+        </div>
+    </div>
+    <span id="countrymsg"></span>
+    <script src="content/javascript/eventhandling.js"></script>
+</body>
+</html>

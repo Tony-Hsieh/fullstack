@@ -1,0 +1,12 @@
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\CompanyApp\Antra.Training.Company.Data.Repositories\bin\Debug\netcoreapp3.1\Antra.Training.Company.Data.Models.dll
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\CompanyApp\Antra.Training.Company.Data.Repositories\obj\Debug\netcoreapp3.1\Antra.Training.Company.Data.Repositories.csprojAssemblyReference.cache
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\CompanyApp\Antra.Training.Company.Data.Repositories\obj\Debug\netcoreapp3.1\Antra.Training.Company.Data.Repositories.AssemblyInfoInputs.cache
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\CompanyApp\Antra.Training.Company.Data.Repositories\obj\Debug\netcoreapp3.1\Antra.Training.Company.Data.Repositories.AssemblyInfo.cs
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\CompanyApp\Antra.Training.Company.Data.Repositories\bin\Debug\netcoreapp3.1\Antra.Training.Company.Data.Repositories.deps.json
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\CompanyApp\Antra.Training.Company.Data.Repositories\bin\Debug\netcoreapp3.1\Antra.Training.Company.Data.Repositories.dll
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\CompanyApp\Antra.Training.Company.Data.Repositories\bin\Debug\netcoreapp3.1\Antra.Training.Company.Data.Repositories.pdb
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\CompanyApp\Antra.Training.Company.Data.Repositories\bin\Debug\netcoreapp3.1\Antra.Training.Company.Data.Models.pdb
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\CompanyApp\Antra.Training.Company.Data.Repositories\obj\Debug\netcoreapp3.1\Antra.Training.Company.Data.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\CompanyApp\Antra.Training.Company.Data.Repositories\obj\Debug\netcoreapp3.1\Antra.Training.Company.Data.Repositories.csproj.CopyComplete
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\CompanyApp\Antra.Training.Company.Data.Repositories\obj\Debug\netcoreapp3.1\Antra.Training.Company.Data.Repositories.dll
+C:\Users\Madhusudan Sharma\source\repos\JuneBatch2021\CompanyApp\Antra.Training.Company.Data.Repositories\obj\Debug\netcoreapp3.1\Antra.Training.Company.Data.Repositories.pdb
