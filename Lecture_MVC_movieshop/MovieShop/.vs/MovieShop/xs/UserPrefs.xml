@@ -1,36 +1,41 @@
 ﻿<Properties StartupConfiguration="{A6DB1299-A39C-484D-8774-8EFBA35CEF57}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ApplicationCore/Entities/Trailer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/Repositories/MovieRepository.cs">
     <Files>
-      <File FileName="MovieShopMVC/Startup.cs" Line="46" Column="60" />
-      <File FileName="MovieShopMVC/appsettings.json" Line="4" Column="5" />
-      <File FileName="MovieShopMVC/Program.cs" Line="16" Column="1" />
-      <File FileName="MovieShopMVC/Controllers/HomeController.cs" Line="65" Column="21" />
-      <File FileName="Infrastructure/Data/MovieShopDbContext.cs" Line="33" Column="63" />
-      <File FileName="ApplicationCore/Entities/Genre.cs" Line="11" Column="6" />
-      <File FileName="Infrastructure/Migrations/MovieShopDbContextModelSnapshot.cs" Line="1" Column="1" />
-      <File FileName="Infrastructure/Migrations/20210719072301_UpdatingGenreTable.cs" Line="1" Column="1" />
-      <File FileName="ApplicationCore/Entities/Movie.cs" Line="10" Column="42" />
-      <File FileName="Infrastructure/Migrations/20210719074838_CreatingMovieTable.cs" Line="1" Column="1" />
-      <File FileName="ApplicationCore/Entities/Trailer.cs" Line="1" Column="1" />
+      <File FileName="MovieShopMVC/Controllers/MoviesControllers.cs" Line="15" Column="23" />
+      <File FileName="MovieShopMVC/Controllers/CastController.cs" Line="8" Column="21" />
+      <File FileName="ApplicationCore/ServiceInterfaces/ICastService.cs" Line="10" Column="19" />
+      <File FileName="ApplicationCore/ServiceInterfaces/IGenreService.cs" Line="11" Column="23" />
+      <File FileName="ApplicationCore/ServiceInterfaces/IMovieService.cs" Line="11" Column="65" />
+      <File FileName="ApplicationCore/ServiceInterfaces/IUserService.cs" Line="1" Column="1" />
+      <File FileName="ApplicationCore/Models/GenreModel.cs" Line="7" Column="41" />
+      <File FileName="ApplicationCore/Models/MovieDetailsResponseModel.cs" Line="36" Column="6" />
+      <File FileName="ApplicationCore/RepositoryInterfaces/IAsyncRepository.cs" Line="19" Column="31" />
+      <File FileName="ApplicationCore/RepositoryInterfaces/ICastRepository.cs" Line="1" Column="1" />
+      <File FileName="ApplicationCore/RepositoryInterfaces/IGenreRepository.cs" Line="10" Column="18" />
+      <File FileName="ApplicationCore/RepositoryInterfaces/IUserRepository.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/Data/MovieShopDbContext.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/Repositories/CastRepository.cs" Line="10" Column="40" />
+      <File FileName="Infrastructure/Repositories/GenreRepository.cs" Line="23" Column="1" />
+      <File FileName="Infrastructure/Repositories/MovieRepository.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MovieShop" expanded="True">
             <Node name="ApplicationCore" expanded="True">
-              <Node name="Entities" expanded="True">
-                <Node name="Trailer.cs" selected="True" />
-              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="RepositoryInterfaces" expanded="True" />
               <Node name="ServiceInterfaces" expanded="True" />
             </Node>
             <Node name="Infrastructure" expanded="True">
               <Node name="Data" expanded="True" />
-              <Node name="Migrations" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="MovieRepository.cs" selected="True" />
+              </Node>
               <Node name="Services" expanded="True" />
             </Node>
             <Node name="MovieShopMVC" expanded="True">
               <Node name="Controllers" expanded="True" />
-              <Node name="Views" expanded="True" />
             </Node>
           </Node>
         </State>

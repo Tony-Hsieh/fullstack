@@ -14,7 +14,7 @@
         "outputPath": "/Users/hsinhanh19/Desktop/fullstack/Lecture_MVC_movieshop/MovieShop/ApplicationCore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/hsinhanh19/.nuget/NuGet/NuGet.Config"
+          "/Users/hsinhanh19/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"

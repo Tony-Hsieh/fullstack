@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 //install dataannotations packages
 using System.ComponentModel.DataAnnotations;
@@ -14,6 +15,8 @@ namespace ApplicationCore.Entities
 
         [MaxLength(24)]
         public string Name { get; set; }
+
+        public ICollection<Movie> Movies { get; set; }
     }
 
     // To change entity/table 2 options, 1. DataAnnotations, 2. Fluent API
