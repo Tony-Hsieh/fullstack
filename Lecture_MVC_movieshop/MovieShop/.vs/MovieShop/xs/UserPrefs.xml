@@ -1,35 +1,45 @@
 ﻿<Properties StartupConfiguration="{A6DB1299-A39C-484D-8774-8EFBA35CEF57}|Default">
-  <MonoDevelop.Ide.ItemProperties.test FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MovieShopMVC/Controllers/HomeController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ApplicationCore/Entities/Trailer.cs">
     <Files>
-      <File FileName="test/EmptyHtmlFile.html" Line="17" Column="10" />
-      <File FileName="ApplicationCore/RepositoryInterfaces/IMovieRepository.cs" Line="10" Column="21" />
-      <File FileName="ApplicationCore/RepositoryInterfaces/IUserRepository.cs" Line="8" Column="1" />
-      <File FileName="MovieShopMVC/Program.cs" Line="13" Column="6" />
-      <File FileName="MovieShopMVC/Startup.cs" Line="34" Column="19" />
-      <File FileName="ApplicationCore/ServiceInterfaces/IMovieService.cs" Line="9" Column="48" />
-      <File FileName="ApplicationCore/ServiceInterfaces/IUserService.cs" Line="1" Column="1" />
-      <File FileName="ApplicationCore/Entities/Movie.cs" Line="10" Column="1" />
-      <File FileName="MovieShopMVC/Controllers/HomeController.cs" Line="18" Column="30" />
-      <File FileName="MovieShopMVC/appsettings.json" Line="13" Column="6" />
-      <File FileName="ApplicationCore/Models/MovieCardModel.cs" Line="11" Column="2" />
-      <File FileName="Infrastructure/Data/MovieShopDbContext.cs" Line="1" Column="1" />
-      <File FileName="Infrastructure/Repositories/MovieRepository.cs" Line="13" Column="10" />
-      <File FileName="Infrastructure/Services/MovieService.cs" Line="14" Column="5" />
+      <File FileName="MovieShopMVC/Startup.cs" Line="46" Column="60" />
+      <File FileName="MovieShopMVC/appsettings.json" Line="4" Column="5" />
+      <File FileName="MovieShopMVC/Program.cs" Line="16" Column="1" />
+      <File FileName="MovieShopMVC/Controllers/HomeController.cs" Line="65" Column="21" />
+      <File FileName="Infrastructure/Data/MovieShopDbContext.cs" Line="33" Column="63" />
+      <File FileName="ApplicationCore/Entities/Genre.cs" Line="11" Column="6" />
+      <File FileName="Infrastructure/Migrations/MovieShopDbContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/Migrations/20210719072301_UpdatingGenreTable.cs" Line="1" Column="1" />
+      <File FileName="ApplicationCore/Entities/Movie.cs" Line="10" Column="42" />
+      <File FileName="Infrastructure/Migrations/20210719074838_CreatingMovieTable.cs" Line="1" Column="1" />
+      <File FileName="ApplicationCore/Entities/Trailer.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MovieShop" selected="True" />
+          <Node name="MovieShop" expanded="True">
+            <Node name="ApplicationCore" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="Trailer.cs" selected="True" />
+              </Node>
+              <Node name="ServiceInterfaces" expanded="True" />
+            </Node>
+            <Node name="Infrastructure" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="MovieShopMVC" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.MovieShopMVC PreferredExecutionTarget="/Applications/Brave Browser.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.ApplicationCore FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Infrastructure FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

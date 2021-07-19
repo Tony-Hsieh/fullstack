@@ -6,6 +6,6 @@ namespace ApplicationCore.ServiceInterfaces
 {
     public interface IMovieService
     {
-        List<MovieCardResponseModel> GetTopRevenueMovie();
+        List<MovieCardResponseModel> GetTopRevenueMovies();
     }
 }

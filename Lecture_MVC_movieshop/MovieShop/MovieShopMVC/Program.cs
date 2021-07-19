@@ -23,4 +23,15 @@ namespace MovieShopMVC
                     webBuilder.UseStartup<Startup>();
                 });
     }
+
+    //1. program.cs main method is the one that executes first=>
+    //2. CreateHostBuilder "Kestral serveer" is a cross platform server(new in .Net Core)
+    //3. Startup
+    //4. Use this method to configure the HTTP request pipeline
+
+    //ASP .Net Core has a concept called middleware
+
+    //Broswer => localhaost/home/index GET =>
+    //Order of the Middleware are very important
+    //(see web doc)
 }

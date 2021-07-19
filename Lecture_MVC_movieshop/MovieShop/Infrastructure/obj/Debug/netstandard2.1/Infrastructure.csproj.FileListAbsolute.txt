@@ -1,0 +1,12 @@
+/Users/hsinhanh19/Desktop/fullstack/Lecture_MVC_movieshop/MovieShop/Infrastructure/bin/Debug/netstandard2.1/Infrastructure.deps.json
+/Users/hsinhanh19/Desktop/fullstack/Lecture_MVC_movieshop/MovieShop/Infrastructure/bin/Debug/netstandard2.1/Infrastructure.dll
+/Users/hsinhanh19/Desktop/fullstack/Lecture_MVC_movieshop/MovieShop/Infrastructure/bin/Debug/netstandard2.1/Infrastructure.pdb
+/Users/hsinhanh19/Desktop/fullstack/Lecture_MVC_movieshop/MovieShop/Infrastructure/bin/Debug/netstandard2.1/ApplicationCore.dll
+/Users/hsinhanh19/Desktop/fullstack/Lecture_MVC_movieshop/MovieShop/Infrastructure/bin/Debug/netstandard2.1/ApplicationCore.pdb
+/Users/hsinhanh19/Desktop/fullstack/Lecture_MVC_movieshop/MovieShop/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.csprojAssemblyReference.cache
+/Users/hsinhanh19/Desktop/fullstack/Lecture_MVC_movieshop/MovieShop/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.AssemblyInfoInputs.cache
+/Users/hsinhanh19/Desktop/fullstack/Lecture_MVC_movieshop/MovieShop/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.AssemblyInfo.cs
+/Users/hsinhanh19/Desktop/fullstack/Lecture_MVC_movieshop/MovieShop/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/hsinhanh19/Desktop/fullstack/Lecture_MVC_movieshop/MovieShop/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.csproj.CopyComplete
+/Users/hsinhanh19/Desktop/fullstack/Lecture_MVC_movieshop/MovieShop/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.dll
+/Users/hsinhanh19/Desktop/fullstack/Lecture_MVC_movieshop/MovieShop/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.pdb

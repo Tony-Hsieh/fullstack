@@ -1,0 +1,9 @@
+/Users/hsinhanh19/Desktop/fullstack/Lecture_MVC_movieshop/MovieShop/ApplicationCore/bin/Debug/netstandard2.1/ApplicationCore.deps.json
+/Users/hsinhanh19/Desktop/fullstack/Lecture_MVC_movieshop/MovieShop/ApplicationCore/bin/Debug/netstandard2.1/ApplicationCore.dll
+/Users/hsinhanh19/Desktop/fullstack/Lecture_MVC_movieshop/MovieShop/ApplicationCore/bin/Debug/netstandard2.1/ApplicationCore.pdb
+/Users/hsinhanh19/Desktop/fullstack/Lecture_MVC_movieshop/MovieShop/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.AssemblyInfoInputs.cache
+/Users/hsinhanh19/Desktop/fullstack/Lecture_MVC_movieshop/MovieShop/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.AssemblyInfo.cs
+/Users/hsinhanh19/Desktop/fullstack/Lecture_MVC_movieshop/MovieShop/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/hsinhanh19/Desktop/fullstack/Lecture_MVC_movieshop/MovieShop/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.dll
+/Users/hsinhanh19/Desktop/fullstack/Lecture_MVC_movieshop/MovieShop/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.pdb
+/Users/hsinhanh19/Desktop/fullstack/Lecture_MVC_movieshop/MovieShop/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.csprojAssemblyReference.cache

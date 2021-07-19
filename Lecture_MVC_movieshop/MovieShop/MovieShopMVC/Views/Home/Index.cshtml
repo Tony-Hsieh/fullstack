@@ -1,8 +1,37 @@
-﻿@{
+﻿<!--tell index what model we're using-->
+@model List<ApplicationCore.Models.MovieCardResponseModel>
+
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<h2>Top Movies Count: @ViewBag.MoviesCount </h2>
+<h2>Top Movies Count: @Model.Count </h2>
+
+@foreach (var movie in Model)
+{
+    <div>
+        @movie.Title <br />
+        @movie.Id <br />
+        @movie.Budget <br />
+    </div>
+}
+
+ 
+
+
+<!--
+Parital Views... view that accross many views
+
+EX: moviecard in =>
+1.home page view(Index) 
+2.purchased movies
+3.favorite movies
+4.movies by genre
+
+
+Home Controller => Index action Method =>
+    return List<MovieCard> => foreach => moviecard(Partial view)
+
+-->
