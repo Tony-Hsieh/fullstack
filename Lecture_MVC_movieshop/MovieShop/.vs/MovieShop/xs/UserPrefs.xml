@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{A6DB1299-A39C-484D-8774-8EFBA35CEF57}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/Repositories/MovieRepository.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieShopMVC/Views/Movie/Details.cshtml">
     <Files>
       <File FileName="MovieShopMVC/Controllers/MoviesControllers.cs" Line="15" Column="23" />
       <File FileName="MovieShopMVC/Controllers/CastController.cs" Line="8" Column="21" />
@@ -16,7 +16,12 @@
       <File FileName="Infrastructure/Data/MovieShopDbContext.cs" Line="1" Column="1" />
       <File FileName="Infrastructure/Repositories/CastRepository.cs" Line="10" Column="40" />
       <File FileName="Infrastructure/Repositories/GenreRepository.cs" Line="23" Column="1" />
-      <File FileName="Infrastructure/Repositories/MovieRepository.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/Repositories/MovieRepository.cs" Line="23" Column="1" />
+      <File FileName="Infrastructure/Services/CastService.cs" Line="33" Column="6" />
+      <File FileName="Infrastructure/Services/GenresService.cs" Line="41" Column="6" />
+      <File FileName="Infrastructure/Services/MovieService.cs" Line="94" Column="10" />
+      <File FileName="MovieShopMVC/Views/Cast/CastDetail.cshtml" Line="59" Column="1" />
+      <File FileName="MovieShopMVC/Views/Movie/Details.cshtml" Line="59" Column="7" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -29,13 +34,16 @@
             </Node>
             <Node name="Infrastructure" expanded="True">
               <Node name="Data" expanded="True" />
-              <Node name="Repositories" expanded="True">
-                <Node name="MovieRepository.cs" selected="True" />
-              </Node>
+              <Node name="Repositories" expanded="True" />
               <Node name="Services" expanded="True" />
             </Node>
             <Node name="MovieShopMVC" expanded="True">
               <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Movie" expanded="True">
+                  <Node name="Details.cshtml" selected="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>
