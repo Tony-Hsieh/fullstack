@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Threading.Tasks;
+using ApplicationCore.ServiceInterfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace MovieShopMVC.Controllers

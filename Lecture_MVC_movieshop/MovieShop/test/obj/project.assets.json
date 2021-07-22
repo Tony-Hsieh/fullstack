@@ -20,7 +20,7 @@
       "outputPath": "/Users/hsinhanh19/Desktop/fullstack/Lecture_MVC_movieshop/MovieShop/test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/hsinhanh19/.config/NuGet/NuGet.Config"
+        "/Users/hsinhanh19/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

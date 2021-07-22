@@ -1,4 +1,10 @@
 ﻿using System;
+using System.Linq;
+using System.Threading.Tasks;
+using ApplicationCore.Models;
+using ApplicationCore.RepositoryInterfaces;
+using ApplicationCore.ServiceInterfaces;
+
 namespace Infrastructure.Services
 {
     public class CastService : ICastService
