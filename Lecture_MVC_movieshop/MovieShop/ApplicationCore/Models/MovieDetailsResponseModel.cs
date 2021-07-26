@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
 namespace ApplicationCore.Models
 {
@@ -23,7 +24,7 @@ namespace ApplicationCore.Models
         public List<CastResponseModel> Casts { get; set; }
         public List<GenreModel> Genres { get; set; }
 
-
+        
     }
     public class CastResponseModel
     {

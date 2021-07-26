@@ -12,34 +12,16 @@ namespace Infrastructure.Repositories
     public class EfRepository<T> : IAsyncRepository<T> where T : class
     {
         protected readonly MovieShopDbContext _dbContext;
+
         public EfRepository(MovieShopDbContext dbContext)
         {
             _dbContext = dbContext;
-        }
-        public Task<T> AddAsync(T entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<T> DeleteAsync(T entity)
-        {
-            throw new NotImplementedException();
         }
 
         public virtual async Task<T> GetByIdAsync(int id)
         {
             var entity = await _dbContext.Set<T>().FindAsync(id);
             return entity;
-        }
-
-        public virtual async Task<int> GetCountAsync(Expression<Func<T, bool>> filter = null)
-        {
-            if (filter != null)
-            {
-                return await _dbContext.Set<T>().Where(filter).CountAsync();
-            }
-
-            return await _dbContext.Set<T>().CountAsync();
         }
 
         public virtual async Task<IEnumerable<T>> ListAllAsync()
@@ -52,9 +34,14 @@ namespace Infrastructure.Repositories
             return await _dbContext.Set<T>().Where(filter).ToListAsync();
         }
 
-        public Task<T> UpdateAsync(T entity)
+        public virtual async Task<int> GetCountAsync(Expression<Func<T, bool>> filter = null)
         {
-            throw new NotImplementedException();
+            if (filter != null)
+            {
+                return await _dbContext.Set<T>().Where(filter).CountAsync();
+            }
+
+            return await _dbContext.Set<T>().CountAsync();
         }
 
         public virtual async Task<bool> GetExistsAsync(Expression<Func<T, bool>> filter = null)
@@ -65,6 +52,23 @@ namespace Infrastructure.Repositories
             }
 
             return await _dbContext.Set<T>().Where(filter).AnyAsync();
+        }
+
+        public async Task<T> AddAsync(T entity)
+        {
+            await _dbContext.Set<T>().AddAsync(entity);
+            await _dbContext.SaveChangesAsync();
+            return entity;
+        }
+
+        public async Task<T> UpdateAsync(T entity)
+        {
+            throw new NotImplementedException();
+        }
+
+        public async Task DeleteAsync(T entity)
+        {
+            throw new NotImplementedException();
         }
     }
 }

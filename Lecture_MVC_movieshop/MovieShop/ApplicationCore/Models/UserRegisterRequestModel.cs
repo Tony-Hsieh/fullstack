@@ -5,7 +5,7 @@ namespace ApplicationCore.Models
 {
     public class UserRegisterRequestModel
     {
-        
+
         //  DataAnnotations for Validations
 
         [Required]
@@ -32,6 +32,5 @@ namespace ApplicationCore.Models
         [DataType(DataType.Date)]
 
         public DateTime DateOfBirth { get; set; }
-        
     }
 }

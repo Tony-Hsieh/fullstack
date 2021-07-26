@@ -1,12 +1,12 @@
-﻿using System;
+﻿using ApplicationCore.Entities;
+using System;
 using System.Collections.Generic;
-using ApplicationCore.Entities;
+using System.Text;
 
 namespace ApplicationCore.Models
 {
     public class CastDetailsResponseModel
     {
-        
         public int Id { get; set; }
         public string Name { get; set; }
         public string Gender { get; set; }
@@ -15,6 +15,5 @@ namespace ApplicationCore.Models
 
         public List<string> Characters { get; set; }
         public List<Movie> Movies { get; set; }
-        
     }
 }
