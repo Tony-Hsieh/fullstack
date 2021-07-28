@@ -1,0 +1,28 @@
+﻿@model List<ApplicationCore.Models.UserResponseModel>
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">User Id</th>
+                <th scope="col">Email</th>
+                <th scope="col">User Name</th>
+                <th scope="col">Join Time</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var res in Model)
+            {
+            <tr>
+                <td>@res.Id</td>
+                <td>@res.Email</td>
+                <td>
+                    <a asp-controller="User" asp-action="UserDetails" asp-route-id="@res.Id">@res.FullName</a>
+                </td>
+                <td>@res.JoinedOn</td>
+                
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>

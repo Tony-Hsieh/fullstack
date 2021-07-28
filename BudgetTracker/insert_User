@@ -1,0 +1,28 @@
+-- INSERT into [User] ([Email], [Password], [FullName], [JoinedOn]) VALUES (N'wef@gew.wje', N'123wer', N'John', CAST(N'2021-10-15T00:00:00.0000000' AS DateTime2))
+
+-- Delete from [User] where id=2
+
+INSERT into [User] ([Email], [Password], [FullName], [JoinedOn]) VALUES (N'wejfo12@gmail.com', N'e321248', N'Emily', CAST(N'2018-09-15T00:00:00.0000000' AS DateTime2))
+INSERT into [User] ([Email], [Password], [FullName], [JoinedOn]) VALUES (N'djscme3@gmail.com', N'awjelj', N'John', CAST(N'2021-10-15T00:00:00.0000000' AS DateTime2))
+INSERT into [User] ([Email], [Password], [FullName], [JoinedOn]) VALUES (N'dwu3ojg@gmail.com', N'e2jlk3', N'Jade', CAST(N'2002-03-15T00:00:00.0000000' AS DateTime2))
+INSERT into [User] ([Email], [Password], [FullName], [JoinedOn]) VALUES (N'ewe89pg@gmail.com', N'3joid', N'Tony', CAST(N'2003-04-15T00:00:00.0000000' AS DateTime2))
+INSERT into [User] ([Email], [Password], [FullName], [JoinedOn]) VALUES (N'zidwk3@gmail.com', N'3enl2', N'Tom', CAST(N'2005-10-15T00:00:00.0000000' AS DateTime2))
+INSERT into [User] ([Email], [Password], [FullName], [JoinedOn]) VALUES (N'eiur3lk1@gmail.com', N'dmwlke3', N'Bred', CAST(N'2008-10-15T00:00:00.0000000' AS DateTime2))
+
+INSERT into [User] ([Email], [Password], [FullName], [JoinedOn]) VALUES (N'doklgle@gmail.com', N'nslei3', N'Sunny', CAST(N'2009-10-15T00:00:00.0000000' AS DateTime2))
+INSERT into [User] ([Email], [Password], [FullName], [JoinedOn]) VALUES (N'm23ldolg@gmail.com', N'skjcie', N'Wendy', CAST(N'2010-10-15T00:00:00.0000000' AS DateTime2))
+INSERT into [User] ([Email], [Password], [FullName], [JoinedOn]) VALUES (N'meko3@gmail.com', N'12lkkr', N'Thompson', CAST(N'2011-10-15T00:00:00.0000000' AS DateTime2))
+INSERT into [User] ([Email], [Password], [FullName], [JoinedOn]) VALUES (N'mck3kt@gmail.com', N'diel3', N'Kelly', CAST(N'2020-03-15T00:00:00.0000000' AS DateTime2))
+INSERT into [User] ([Email], [Password], [FullName], [JoinedOn]) VALUES (N'kel23k4@gmail.com', N'xlckjo4', N'Madison', CAST(N'2019-10-15T00:00:00.0000000' AS DateTime2))
+
+INSERT into [User] ([Email], [Password], [FullName], [JoinedOn]) VALUES (N'oi3311@gmail.com', N'3ijo333', N'Mandy', CAST(N'2015-05-15T00:00:00.0000000' AS DateTime2))
+INSERT into [User] ([Email], [Password], [FullName], [JoinedOn]) VALUES (N'qyuwe@gmail.com', N'dopw3kl6', N'Jossef', CAST(N'2003-07-15T00:00:00.0000000' AS DateTime2))
+INSERT into [User] ([Email], [Password], [FullName], [JoinedOn]) VALUES (N'asdem3@gmail.com', N'aseioj', N'Peter', CAST(N'2020-02-15T00:00:00.0000000' AS DateTime2))
+INSERT into [User] ([Email], [Password], [FullName], [JoinedOn]) VALUES (N'vxle3@gmail.com', N'oiuwe3', N'Cidney', CAST(N'2014-03-15T00:00:00.0000000' AS DateTime2))
+INSERT into [User] ([Email], [Password], [FullName], [JoinedOn]) VALUES (N'sdq12@gmail.com', N'pck3l4', N'Casey', CAST(N'2003-10-15T00:00:00.0000000' AS DateTime2))
+
+INSERT into [User] ([Email], [Password], [FullName], [JoinedOn]) VALUES (N'wef@gmail.com', N'pod3kj5', N'Wiseman', CAST(N'2005-10-15T00:00:00.0000000' AS DateTime2))
+INSERT into [User] ([Email], [Password], [FullName], [JoinedOn]) VALUES (N'wef@gmail.com', N'cpoejot', N'Parker', CAST(N'2007-10-15T00:00:00.0000000' AS DateTime2))
+INSERT into [User] ([Email], [Password], [FullName], [JoinedOn]) VALUES (N'wef@gmail.com', N'ek3lk3', N'James', CAST(N'2003-10-15T00:00:00.0000000' AS DateTime2))
+INSERT into [User] ([Email], [Password], [FullName], [JoinedOn]) VALUES (N'wef@gmail.com', N'p3kl5', N'Harden', CAST(N'2006-02-15T00:00:00.0000000' AS DateTime2))
+INSERT into [User] ([Email], [Password], [FullName], [JoinedOn]) VALUES (N'wef@gmail.com', N'dkcop3k', N'CUrry', CAST(N'2012-04-15T00:00:00.0000000' AS DateTime2))

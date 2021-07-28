@@ -1,0 +1,12 @@
+/Users/hsinhanh19/Desktop/fullstack/Final/BudgetTracker/Final/ApplicationCore/bin/Debug/net5.0/ApplicationCore.deps.json
+/Users/hsinhanh19/Desktop/fullstack/Final/BudgetTracker/Final/ApplicationCore/bin/Debug/net5.0/ApplicationCore.dll
+/Users/hsinhanh19/Desktop/fullstack/Final/BudgetTracker/Final/ApplicationCore/bin/Debug/net5.0/ref/ApplicationCore.dll
+/Users/hsinhanh19/Desktop/fullstack/Final/BudgetTracker/Final/ApplicationCore/bin/Debug/net5.0/ApplicationCore.pdb
+/Users/hsinhanh19/Desktop/fullstack/Final/BudgetTracker/Final/ApplicationCore/obj/Debug/net5.0/ApplicationCore.csprojAssemblyReference.cache
+/Users/hsinhanh19/Desktop/fullstack/Final/BudgetTracker/Final/ApplicationCore/obj/Debug/net5.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hsinhanh19/Desktop/fullstack/Final/BudgetTracker/Final/ApplicationCore/obj/Debug/net5.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/hsinhanh19/Desktop/fullstack/Final/BudgetTracker/Final/ApplicationCore/obj/Debug/net5.0/ApplicationCore.AssemblyInfo.cs
+/Users/hsinhanh19/Desktop/fullstack/Final/BudgetTracker/Final/ApplicationCore/obj/Debug/net5.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/hsinhanh19/Desktop/fullstack/Final/BudgetTracker/Final/ApplicationCore/obj/Debug/net5.0/ApplicationCore.dll
+/Users/hsinhanh19/Desktop/fullstack/Final/BudgetTracker/Final/ApplicationCore/obj/Debug/net5.0/ref/ApplicationCore.dll
+/Users/hsinhanh19/Desktop/fullstack/Final/BudgetTracker/Final/ApplicationCore/obj/Debug/net5.0/ApplicationCore.pdb

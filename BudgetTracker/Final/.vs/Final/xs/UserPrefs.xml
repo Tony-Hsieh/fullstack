@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{12E4ED5D-5EE1-4FAA-82AA-757AD2A9DF40}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/Data/BudgetTrackerDbContext.cs">
+    <Files>
+      <File FileName="WebApplication/Startup.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/Data/BudgetTrackerDbContext.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Final" expanded="True">
+            <Node name="Infrastructure" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="BudgetTrackerDbContext.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="WebApplication" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApplication PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

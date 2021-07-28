@@ -1,0 +1,63 @@
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (24, 324.12, N'week1', CAST(N'2018-09-15T00:00:00.0000000' AS DateTime2), N'')
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (24, 221.12, N'week2', CAST(N'2018-09-21T00:00:00.0000000' AS DateTime2), N'good')
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (24, 324.12, N'week3', CAST(N'2018-09-30T00:00:00.0000000' AS DateTime2), N'worse')
+
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (25, 123.12, N'week1', CAST(N'2018-09-15T00:00:00.0000000' AS DateTime2), N'improved')
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (25, 324.12, N'week2', CAST(N'2018-09-30T00:00:00.0000000' AS DateTime2), N'OK')
+
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (26, 123.12, N'week1', CAST(N'2018-09-15T00:00:00.0000000' AS DateTime2), N'improved')
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (26, 324.12, N'week2', CAST(N'2018-09-30T00:00:00.0000000' AS DateTime2), N'OK')
+
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (27, 123.12, N'week1', CAST(N'2018-09-15T00:00:00.0000000' AS DateTime2), N'improved')
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (27, 324.12, N'week2', CAST(N'2018-09-30T00:00:00.0000000' AS DateTime2), N'OK')
+
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (28, 123.12, N'week1', CAST(N'2018-09-15T00:00:00.0000000' AS DateTime2), N'improved')
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (28, 324.12, N'week2', CAST(N'2018-09-30T00:00:00.0000000' AS DateTime2), N'OK')
+
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (29, 123.12, N'week1', CAST(N'2018-09-15T00:00:00.0000000' AS DateTime2), N'improved')
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (29, 324.12, N'week2', CAST(N'2018-09-30T00:00:00.0000000' AS DateTime2), N'OK')
+
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (30, 123.12, N'week1', CAST(N'2018-09-15T00:00:00.0000000' AS DateTime2), N'improved')
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (30, 324.12, N'week2', CAST(N'2018-09-30T00:00:00.0000000' AS DateTime2), N'OK')
+
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (31, 123.12, N'week1', CAST(N'2018-09-15T00:00:00.0000000' AS DateTime2), N'improved')
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (31, 324.12, N'week2', CAST(N'2018-09-30T00:00:00.0000000' AS DateTime2), N'OK')
+
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (32, 123.12, N'week1', CAST(N'2018-09-15T00:00:00.0000000' AS DateTime2), N'improved')
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (32, 324.12, N'week2', CAST(N'2018-09-30T00:00:00.0000000' AS DateTime2), N'OK')
+
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (33, 123.12, N'week1', CAST(N'2018-09-15T00:00:00.0000000' AS DateTime2), N'improved')
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (33, 324.12, N'week2', CAST(N'2018-09-30T00:00:00.0000000' AS DateTime2), N'OK')
+
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (34, 123.12, N'week1', CAST(N'2018-09-15T00:00:00.0000000' AS DateTime2), N'improved')
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (34, 324.12, N'week2', CAST(N'2018-09-30T00:00:00.0000000' AS DateTime2), N'OK')
+
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (35, 123.12, N'week1', CAST(N'2018-09-15T00:00:00.0000000' AS DateTime2), N'improved')
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (35, 324.12, N'week2', CAST(N'2018-09-30T00:00:00.0000000' AS DateTime2), N'OK')
+
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (36, 123.12, N'week1', CAST(N'2018-09-15T00:00:00.0000000' AS DateTime2), N'improved')
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (36, 324.12, N'week2', CAST(N'2018-09-30T00:00:00.0000000' AS DateTime2), N'OK')
+
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (37, 123.12, N'week1', CAST(N'2018-09-15T00:00:00.0000000' AS DateTime2), N'improved')
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (37, 324.12, N'week2', CAST(N'2018-09-30T00:00:00.0000000' AS DateTime2), N'OK')
+
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (38, 123.12, N'week1', CAST(N'2018-09-15T00:00:00.0000000' AS DateTime2), N'improved')
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (38, 324.12, N'week2', CAST(N'2018-09-30T00:00:00.0000000' AS DateTime2), N'OK')
+
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (39, 123.12, N'week1', CAST(N'2018-09-15T00:00:00.0000000' AS DateTime2), N'improved')
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (39, 324.12, N'week2', CAST(N'2018-09-30T00:00:00.0000000' AS DateTime2), N'OK')
+
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (40, 123.12, N'week1', CAST(N'2018-09-15T00:00:00.0000000' AS DateTime2), N'improved')
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (40, 324.12, N'week2', CAST(N'2018-09-30T00:00:00.0000000' AS DateTime2), N'OK')
+
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (41, 123.12, N'week1', CAST(N'2018-09-15T00:00:00.0000000' AS DateTime2), N'improved')
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (41, 324.12, N'week2', CAST(N'2018-09-30T00:00:00.0000000' AS DateTime2), N'OK')
+
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (42, 123.12, N'week1', CAST(N'2018-09-15T00:00:00.0000000' AS DateTime2), N'improved')
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (42, 324.12, N'week2', CAST(N'2018-09-30T00:00:00.0000000' AS DateTime2), N'OK')
+
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (43, 123.12, N'week1', CAST(N'2018-09-15T00:00:00.0000000' AS DateTime2), N'improved')
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (43, 324.12, N'week2', CAST(N'2018-09-30T00:00:00.0000000' AS DateTime2), N'OK')
+
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (44, 123.12, N'week1', CAST(N'2018-09-15T00:00:00.0000000' AS DateTime2), N'improved')
+INSERT into [Income] ([UserId], [Amount], [Description], [IncomeDate], [Remarks]) VALUES (44, 324.12, N'week2', CAST(N'2018-09-30T00:00:00.0000000' AS DateTime2), N'OK')

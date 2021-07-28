@@ -1,0 +1,30 @@
+﻿@model List<ApplicationCore.Models.IncomeResponseModel>
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Income Id</th>
+                <th scope="col">User Id</th>
+                <th scope="col">Amount</th>
+                <th scope="col">Description</th>
+                <th scope="col">Remarks</th>
+                <th scope="col">Income Date</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var res in Model)
+            {
+            <tr>
+                <td>@res.Id</td>
+                <td>@res.UserId</td>
+                <td>@res.Amount</td>
+                <td>@res.Description</td>
+                <td>@res.Remarks</td>
+                <td>@res.IncomeDate</td>
+                
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
